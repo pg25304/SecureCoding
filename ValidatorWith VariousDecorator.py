@@ -1,6 +1,3 @@
-from calendar import error
-
-
 class Validator:
     #class state (shared across all instances)
     rules_enabled = True

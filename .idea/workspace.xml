@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5272a0c2-b729-4907-8431-43a419903492" name="Changes" comment="one change">
-      <change afterPath="$PROJECT_DIR$/RefacCodeSmell-longMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValidatorWith VariousDecorator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ValidatorWith VariousDecorator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ValidatorWith VariousDecorator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,28 +43,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.OOP Unit & Collaborative Discussion 3 improve code using Argon2.executor": "Run",
-    "Python.OOP Unit 7 Collaborative Discussion 3 improve code.executor": "Run",
-    "Python.Refactoring and Code Smells.executor": "Run",
-    "Python.ValidatorWith VariousDecorator.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/jezabel2/PycharmProjects/PythonProject/SecureCoding",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.OOP Unit &amp; Collaborative Discussion 3 improve code using Argon2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OOP Unit 7 Collaborative Discussion 3 improve code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Refactoring and Code Smells.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ValidatorWith VariousDecorator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jezabel2/PycharmProjects/PythonProject/SecureCoding&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jezabel2\PycharmProjects\PythonProject\SecureCoding" />
@@ -90,6 +89,9 @@
       <workItem from="1765413093714" duration="196000" />
       <workItem from="1765413385079" duration="11296000" />
       <workItem from="1765536342498" duration="9130000" />
+      <workItem from="1765763942451" duration="542000" />
+      <workItem from="1766071390764" duration="1129000" />
+      <workItem from="1766157178547" duration="5122000" />
     </task>
     <task id="LOCAL-00001" summary="one change">
       <option name="closed" value="true" />
@@ -123,7 +125,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SecureCoding$OOP_Unit___Collaborative_Discussion_3_improve_code_using_Argon2.coverage" NAME="OOP Unit &amp; Collaborative Discussion 3 improve code using Argon2 Coverage Results" MODIFIED="1765205024577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/SecureCoding$OOP_Unit_7_Collaborative_Discussion_3_improve_code.coverage" NAME="OOP Unit 7 Collaborative Discussion 3 improve code Coverage Results" MODIFIED="1765200969468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/SecureCoding$ValidatorWith_VariousDecorator.coverage" NAME="ValidatorWith VariousDecorator Coverage Results" MODIFIED="1765551439644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SecureCoding$ValidatorWith_VariousDecorator.coverage" NAME="ValidatorWith VariousDecorator Coverage Results" MODIFIED="1765764463001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SecureCoding$Refactoring_and_Code_Smells.coverage" NAME="Refactoring and Code Smells Coverage Results" MODIFIED="1765414658922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SecureCoding$test.coverage" NAME="test Coverage Results" MODIFIED="1765202459366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
