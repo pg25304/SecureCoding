@@ -15,4 +15,3 @@ def generate_user_report(users):
         status = "active" if u.get('active', False) else "inactive"
         report.append(f"{line} | created: {created_str} | {status}")
     return "\n".join(report)
-#Britannia Table Tennis Club, 193 Defoe Rd, Ipswich IP1 6SG
